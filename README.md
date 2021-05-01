@@ -1,6 +1,6 @@
-### Welcome to my Github!
+<h1 align="center">Welcome to my Github ⚡</h1>
 
-# About me
+### About me:
 
 Tenho 21 anos e sou apaixonado desde que tive meu primeiro contato com programação, estou sempre em busca de conhecimento.
 Sou formado em Análise e Desenvolvimento de Sistemas e atuo na área de desenvolvimento a pouco mais de 2 anos e estudo programação a aproximadamente 4 anos.
