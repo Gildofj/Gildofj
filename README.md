@@ -11,7 +11,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e atuo na área de desenvo
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gildofj&show_icons=true&theme=dracula&count_private=true" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gildofj&show_icons=true&theme=dracula&count_private=true" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gildofj&layout=compact&theme=dracula&count_private=true" />
 </p>
 
