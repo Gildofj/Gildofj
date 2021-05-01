@@ -11,7 +11,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e atuo na área de desenvo
 
 **Currently working with:**
 
-![C#](https://img.icons8.com/color/46/000000/c-sharp-logo.png) ![React](https://img.icons8.com/officexs/46/000000/react.png) ![Redux](https://img.icons8.com/color/46/000000/redux.png) ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) ![VisualStudio](https://img.icons8.com/fluent/46/000000/visual-studio-2019.png)
+![C#](https://img.icons8.com/color/46/000000/c-sharp-logo.png) ![React](https://img.icons8.com/officexs/46/000000/react.png) ![Redux](https://img.icons8.com/color/46/000000/redux.png) ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) ![Visual Studio](https://img.icons8.com/fluent/46/000000/visual-studio-2019.png) ![Visual Studio Code](https://img.icons8.com/fluent/46/000000/visual-studio-code-2019.png)
 
 **Learning:**
 
