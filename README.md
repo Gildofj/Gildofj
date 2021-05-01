@@ -1,6 +1,6 @@
-### Seja bem vindo!
+### Welcome to my Github!
 
-# Sobre mim
+# About me
 
 Tenho 21 anos e sou apaixonado desde que tive meu primeiro contato com programação, estou sempre em busca de conhecimento.
 Sou formado em Análise e Desenvolvimento de Sistemas e atuo na área de desenvolvimento a pouco mais de 2 anos e estudo programação a aproximadamente 4 anos.
@@ -25,6 +25,6 @@ Sou formado em Análise e Desenvolvimento de Sistemas e atuo na área de desenvo
 |:---:|:---:|
 |![Github Stats](https://github-readme-stats.vercel.app/api?username=gildofj&show_icons=true&theme=dracula&count_private=true)|![1](https://github-readme-stats.vercel.app/api/top-langs/?username=gildofj&layout=compact&theme=dracula&count_private=true)|
 
-|TROFÉUS DO GITHUB|
+|GITHUB TROPHIES|
 |:---:|
 |[![trophy](https://github-profile-trophy.vercel.app/?username=iagognunes&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)|
