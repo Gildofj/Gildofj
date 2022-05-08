@@ -2,8 +2,8 @@
 
 ### About me:
 
-Tenho 21 anos e sou apaixonado desde que tive meu primeiro contato com programação, estou sempre em busca de conhecimento.
-Sou formado em Análise e Desenvolvimento de Sistemas e atuo na área de desenvolvimento a pouco mais de 2 anos e estudo programação a aproximadamente 4 anos.
+Tenho 22 anos e sou apaixonado desde que tive meu primeiro contato com programação, estou sempre em busca de conhecimento.
+Sou formado em Análise e Desenvolvimento de Sistemas e atuo na área de desenvolvimento a pouco mais de 3 anos e estudo programação a aproximadamente 5 anos.
 
 **Social Media:**
 
@@ -15,11 +15,11 @@ Sou formado em Análise e Desenvolvimento de Sistemas e atuo na área de desenvo
 
 **Learning:**
 
-![C#](https://img.icons8.com/color/46/000000/c-sharp-logo.png) ![React](https://img.icons8.com/officexs/46/000000/react.png) ![JavaScript](https://img.icons8.com/color/46/000000/javascript.png) ![TypeScript](https://img.icons8.com/color/46/000000/typescript.png) ![NextJS](https://cdn.icon-icons.com/icons2/2148/PNG/48/nextjs_icon_132160.png) ![Docker](https://img.icons8.com/color/46/000000/docker.png) ![Kubernetes](https://img.icons8.com/color/46/000000/kubernetes.png) 
+![C#](https://img.icons8.com/color/46/000000/c-sharp-logo.png) ![React](https://img.icons8.com/officexs/46/000000/react.png) ![JavaScript](https://img.icons8.com/color/46/000000/javascript.png) ![TypeScript](https://img.icons8.com/color/46/000000/typescript.png) ![NextJS](https://cdn.icon-icons.com/icons2/2148/PNG/48/nextjs_icon_132160.png) ![Docker](https://img.icons8.com/color/46/000000/docker.png)
 
 **Other knowledges:**
 
-![Python](https://img.icons8.com/color/46/000000/python.png) ![Java](https://img.icons8.com/color/46/000000/java-coffee-cup-logo.png) ![SpringBoot](https://img.icons8.com/color/46/000000/spring-logo.png) ![Eclipse](https://img.icons8.com/officexs/46/000000/java-eclipse.png) ![NodeJS](https://img.icons8.com/color/46/000000/nodejs.png) ![MySQL](https://img.icons8.com/color/46/000000/mysql-logo.png) ![PostgreSQL](https://img.icons8.com/color/46/000000/postgreesql.png) ![React Native](https://img.icons8.com/color/46/000000/react-native.png) ![Expo](https://cdn.icon-icons.com/icons2/2148/PNG/48/expo_icon_132404.png)
+![Python](https://img.icons8.com/color/46/000000/python.png) ![Java](https://img.icons8.com/color/46/000000/java-coffee-cup-logo.png) ![SpringBoot](https://img.icons8.com/color/46/000000/spring-logo.png) ![NodeJS](https://img.icons8.com/color/46/000000/nodejs.png) ![PostgreSQL](https://img.icons8.com/color/46/000000/postgreesql.png) ![React Native](https://img.icons8.com/color/46/000000/react-native.png) ![Expo](https://cdn.icon-icons.com/icons2/2148/PNG/48/expo_icon_132404.png)
 
 |STATS|LANGUAGES|
 |:---:|:---:|
