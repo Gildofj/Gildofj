@@ -19,7 +19,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e atuo na área de desenvo
 
 **Other knowledges:**
 
-![Python](https://img.icons8.com/color/46/000000/python.png) ![Java](https://img.icons8.com/color/46/000000/java-coffee-cup-logo.png) ![SpringBoot](https://img.icons8.com/color/46/000000/spring-logo.png) ![NodeJS](https://img.icons8.com/color/46/000000/nodejs.png) ![PostgreSQL](https://img.icons8.com/color/46/000000/postgreesql.png) ![React Native](https://img.icons8.com/color/46/000000/react-native.png) ![Expo](https://cdn.icon-icons.com/icons2/2148/PNG/48/expo_icon_132404.png)
+![NodeJS](https://img.icons8.com/color/46/000000/nodejs.png) ![PostgreSQL](https://img.icons8.com/color/46/000000/postgreesql.png) ![React Native](https://img.icons8.com/color/46/000000/react-native.png) ![Expo](https://cdn.icon-icons.com/icons2/2148/PNG/48/expo_icon_132404.png)
 
 |STATS|LANGUAGES|
 |:---:|:---:|
