@@ -2,8 +2,7 @@
 
 ### About me:
 
-Tenho 22 anos e sou apaixonado desde que tive meu primeiro contato com programação, estou sempre em busca de conhecimento.
-Sou formado em Análise e Desenvolvimento de Sistemas e atuo na área de desenvolvimento a pouco mais de 3 anos e estudo programação a aproximadamente 5 anos.
+I have a degree in Systems Analysis and Development and I have been working in the development area since the beginning of 2020 but I have been studying programming since 2017, I currently work directly with C# with .NET Core, Javascript and Typescript as a programming language more specifically with frameworks such as AngularJS, Reactjs and Nextjs in addition to Kotlin for mobile and SQL Server as a database, but I have knowledge in Expressjs as a backend in node and React Native as a mobile. I am currently studying Docker, in addition to studying project architecture concepts such as Clean Architecture and DDD.
 
 **Social Media:**
 
