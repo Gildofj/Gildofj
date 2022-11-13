@@ -11,15 +11,14 @@ Sou formado em Análise e Desenvolvimento de Sistemas e atuo na área de desenvo
 
 **Currently working with:**
 
-![C#](https://img.icons8.com/color/46/000000/c-sharp-logo.png) ![React](https://img.icons8.com/officexs/46/000000/react.png) ![Redux](https://img.icons8.com/color/46/000000/redux.png) ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) ![Visual Studio](https://img.icons8.com/fluent/46/000000/visual-studio-2019.png) ![Visual Studio Code](https://img.icons8.com/fluent/46/000000/visual-studio-code-2019.png)
+![C#](https://img.icons8.com/color/46/000000/c-sharp-logo.png) ![React](https://img.icons8.com/officexs/46/000000/react.png) ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) ![NextJS](https://cdn.icon-icons.com/icons2/2148/PNG/48/nextjs_icon_132160.png) ![AngularJS](https://img.icons8.com/color/48/null/angularjs.png) ![Kotlin](https://img.icons8.com/color/48/null/kotlin.png) ![Visual Studio](https://img.icons8.com/fluent/46/000000/visual-studio-2019.png) ![Visual Studio Code](https://img.icons8.com/fluent/46/000000/visual-studio-code-2019.png)
 
 **Learning:**
-
-![C#](https://img.icons8.com/color/46/000000/c-sharp-logo.png) ![React](https://img.icons8.com/officexs/46/000000/react.png) ![JavaScript](https://img.icons8.com/color/46/000000/javascript.png) ![TypeScript](https://img.icons8.com/color/46/000000/typescript.png) ![NextJS](https://cdn.icon-icons.com/icons2/2148/PNG/48/nextjs_icon_132160.png) ![Docker](https://img.icons8.com/color/46/000000/docker.png)
+![NextJS](https://cdn.icon-icons.com/icons2/2148/PNG/48/nextjs_icon_132160.png) ![Docker](https://img.icons8.com/color/46/000000/docker.png)
 
 **Other knowledges:**
 
-![NodeJS](https://img.icons8.com/color/46/000000/nodejs.png) ![PostgreSQL](https://img.icons8.com/color/46/000000/postgreesql.png) ![React Native](https://img.icons8.com/color/46/000000/react-native.png) ![Expo](https://cdn.icon-icons.com/icons2/2148/PNG/48/expo_icon_132404.png)
+![NodeJS](https://img.icons8.com/color/46/000000/nodejs.png) ![PostgreSQL](https://img.icons8.com/color/46/000000/postgreesql.png) ![React Native](https://img.icons8.com/color/46/000000/react-native.png) ![Expo](https://cdn.icon-icons.com/icons2/2148/PNG/48/expo_icon_132404.png) ![Redux](https://img.icons8.com/color/46/000000/redux.png)
 
 |STATS|LANGUAGES|
 |:---:|:---:|
