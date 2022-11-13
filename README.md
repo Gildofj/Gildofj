@@ -14,6 +14,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e atuo na área de desenvo
 ![C#](https://img.icons8.com/color/46/000000/c-sharp-logo.png) ![React](https://img.icons8.com/officexs/46/000000/react.png) ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) ![NextJS](https://cdn.icon-icons.com/icons2/2148/PNG/48/nextjs_icon_132160.png) ![AngularJS](https://img.icons8.com/color/48/null/angularjs.png) ![Kotlin](https://img.icons8.com/color/48/null/kotlin.png) ![JavaScript](https://img.icons8.com/color/46/000000/javascript.png) ![TypeScript](https://img.icons8.com/color/46/000000/typescript.png) ![Visual Studio](https://img.icons8.com/fluent/46/000000/visual-studio-2019.png) ![Visual Studio Code](https://img.icons8.com/fluent/46/000000/visual-studio-code-2019.png)
 
 **Learning:**
+
 ![NextJS](https://cdn.icon-icons.com/icons2/2148/PNG/48/nextjs_icon_132160.png) ![Docker](https://img.icons8.com/color/46/000000/docker.png)
 
 **Other knowledges:**
