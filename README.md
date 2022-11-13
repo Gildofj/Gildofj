@@ -18,7 +18,7 @@ I have a degree in Systems Analysis and Development and I have been working in t
 
 **Other knowledges:**
 
-[![NodeJS](https://img.icons8.com/color/46/000000/nodejs.png)](https://nodejs.org/en/) [![PostgreSQL](https://img.icons8.com/color/46/000000/postgreesql.png)](https://www.postgresql.org/) [![React Native](https://img.icons8.com/color/46/000000/react-native.png)](https://reactnative.dev/) [![Expo](https://cdn.icon-icons.com/icons2/2148/PNG/48/expo_icon_132404.png)](https://expo.dev/) [![Redux](https://img.icons8.com/color/46/000000/redux.png)](https://redux.js.org/) [![ExpressJS](https://www.pngwing.com/en/free-png-sreax)](https://expressjs.com/pt-br/)
+[![NodeJS](https://img.icons8.com/color/46/000000/nodejs.png)](https://nodejs.org/en/) [![PostgreSQL](https://img.icons8.com/color/46/000000/postgreesql.png)](https://www.postgresql.org/) [![React Native](https://img.icons8.com/color/46/000000/react-native.png)](https://reactnative.dev/) [![Expo](https://cdn.icon-icons.com/icons2/2148/PNG/48/expo_icon_132404.png)](https://expo.dev/) [![Redux](https://img.icons8.com/color/46/000000/redux.png)](https://redux.js.org/)
 
 |STATS|LANGUAGES|
 |:---:|:---:|
