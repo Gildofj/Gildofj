@@ -6,7 +6,7 @@ I have a degree in Systems Analysis and Development and I have been working in t
 
 **Social Media:**
 
-[![LinkedIn](https://img.icons8.com/fluent/46/000000/linkedin.png)](https://www.linkedin.com/in/gjunior/) [![Instagram](https://img.icons8.com/fluent/46/000000/instagram-new.png)](https://www.instagram.com/tao_gildao/) [![GitHub](https://img.icons8.com/color/46/000000/rocket--v2.png)](https://app.rocketseat.com.br/me/gildofj)
+[![LinkedIn](https://img.icons8.com/fluent/46/000000/linkedin.png)](https://www.linkedin.com/in/gildofj/) [![Instagram](https://img.icons8.com/fluent/46/000000/instagram-new.png)](https://www.instagram.com/tao_gildao/) [![GitHub](https://img.icons8.com/color/46/000000/rocket--v2.png)](https://app.rocketseat.com.br/me/gildofj)
 
 **Currently working with:**
 
