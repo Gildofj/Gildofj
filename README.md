@@ -12,13 +12,9 @@ I have a degree in Systems Analysis and Development and I have been working in t
 
 [![C#](https://img.icons8.com/color/46/000000/c-sharp-logo.png)](https://learn.microsoft.com/pt-br/dotnet/csharp/) [![React](https://img.icons8.com/officexs/46/000000/react.png)](https://pt-br.reactjs.org/) [![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads) [![NextJS](https://cdn.icon-icons.com/icons2/2148/PNG/48/nextjs_icon_132160.png)](https://nextjs.org/) [![AngularJS](https://img.icons8.com/color/48/null/angularjs.png)](https://angularjs.org/) [![Kotlin](https://img.icons8.com/color/48/null/kotlin.png)](https://kotlinlang.org/) [![JavaScript](https://img.icons8.com/color/46/000000/javascript.png)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) [![TypeScript](https://img.icons8.com/color/46/000000/typescript.png)](https://www.typescriptlang.org/) [![Visual Studio](https://img.icons8.com/fluent/46/000000/visual-studio-2019.png)](https://visualstudio.microsoft.com/pt-br/downloads/) [![Visual Studio Code](https://img.icons8.com/fluent/46/000000/visual-studio-code-2019.png)](https://code.visualstudio.com/) [![Android Studio](https://img.icons8.com/color/48/null/android-studio--v3.png)](https://developer.android.com/studio)
 
-**Learning:**
-
-[![NextJS](https://cdn.icon-icons.com/icons2/2148/PNG/48/nextjs_icon_132160.png)](https://nextjs.org/) [![Docker](https://img.icons8.com/color/46/000000/docker.png)](https://www.docker.com/)
-
 **Other knowledges:**
 
-[![NodeJS](https://img.icons8.com/color/46/000000/nodejs.png)](https://nodejs.org/en/) [![PostgreSQL](https://img.icons8.com/color/46/000000/postgreesql.png)](https://www.postgresql.org/) [![React Native](https://img.icons8.com/color/46/000000/react-native.png)](https://reactnative.dev/) [![Expo](https://cdn.icon-icons.com/icons2/2148/PNG/48/expo_icon_132404.png)](https://expo.dev/) [![Redux](https://img.icons8.com/color/46/000000/redux.png)](https://redux.js.org/)
+[![NodeJS](https://img.icons8.com/color/46/000000/nodejs.png)](https://nodejs.org/en/) [![PostgreSQL](https://img.icons8.com/color/46/000000/postgreesql.png)](https://www.postgresql.org/) [![React Native](https://img.icons8.com/color/46/000000/react-native.png)](https://reactnative.dev/) [![Expo](https://cdn.icon-icons.com/icons2/2148/PNG/48/expo_icon_132404.png)](https://expo.dev/) [![Redux](https://img.icons8.com/color/46/000000/redux.png)](https://redux.js.org/) [![Docker](https://img.icons8.com/color/46/000000/docker.png)](https://www.docker.com/)
 
 |STATS|LANGUAGES|
 |:---:|:---:|
