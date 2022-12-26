@@ -22,4 +22,4 @@ I have a degree in Systems Analysis and Development and I have been working in t
 
 |GITHUB TROPHIES|
 |:---:|
-|[![trophy](https://github-profile-trophy.vercel.app/?username=iagognunes&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)|
+|[![trophy](https://github-profile-trophy.vercel.app/?username=gildofj&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)|
