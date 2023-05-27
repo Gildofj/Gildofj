@@ -14,7 +14,7 @@ I have a degree in Systems Analysis and Development and I have been working in t
 
 **Other knowledges:**
 
-[![NodeJS](https://img.icons8.com/color/46/000000/nodejs.png)](https://nodejs.org/en/) [![PostgreSQL](https://img.icons8.com/color/46/000000/postgreesql.png)](https://www.postgresql.org/) [![React Native](https://img.icons8.com/color/46/000000/react-native.png)](https://reactnative.dev/) [![Expo](https://cdn.icon-icons.com/icons2/2148/PNG/48/expo_icon_132404.png)](https://expo.dev/) [![Redux](https://img.icons8.com/color/46/000000/redux.png)](https://redux.js.org/) [![Docker](https://img.icons8.com/color/46/000000/docker.png)](https://www.docker.com/)
+[![NodeJS](https://img.icons8.com/color/46/000000/nodejs.png)](https://nodejs.org/en/) [![PostgreSQL](https://img.icons8.com/color/46/000000/postgreesql.png)](https://www.postgresql.org/) [![React Native](https://img.icons8.com/color/46/000000/react-native.png)](https://reactnative.dev/) [![Expo](https://cdn.icon-icons.com/icons2/2148/PNG/48/expo_icon_132404.png)](https://expo.dev/) [![Redux](https://img.icons8.com/color/46/000000/redux.png)](https://redux.js.org/) [![Docker](https://img.icons8.com/color/46/000000/docker.png)](https://www.docker.com/) [![Elixir](https://avatars.githubusercontent.com/u/1481354?s=280&v=4)](https://elixir-lang.org/docs.html) [![Phoenix](https://seeklogo.com/images/P/phoenix-logo-D15F067911-seeklogo.com.png)](https://www.phoenixframework.org)
 
 |STATS|LANGUAGES|
 |:---:|:---:|
