@@ -6,7 +6,7 @@ I have a degree in Systems Analysis and Development and I have been working in t
 
 **Social Media:**
 
-[![LinkedIn](https://img.icons8.com/fluent/46/000000/linkedin.png)](https://www.linkedin.com/in/gildofj/) [![Instagram](https://img.icons8.com/fluent/46/000000/instagram-new.png)](https://www.instagram.com/tao_gildao/) [![DEVTO](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fbrand&psig=AOvVaw1k5LsmYJHqbiwuaZ-_SFZR&ust=1703730195337000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODp-9rHroMDFQAAAAAdAAAAABAD)]([https://dev.to/gildofj])
+[![LinkedIn](https://img.icons8.com/fluent/46/000000/linkedin.png)](https://www.linkedin.com/in/gildofj/) [![Instagram](https://img.icons8.com/fluent/46/000000/instagram-new.png)](https://www.instagram.com/tao_gildao/) [![DEVTO](https://res.cloudinary.com/practicaldev/image/fetch/s--AOunT8g5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png)]([https://dev.to/gildofj])
 
 **Currently working with:**
 
